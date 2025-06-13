@@ -1,2 +1,2 @@
-# careerbran
-This is a plateform which provide a chance to show and provide your skills in exchange of money.
+# JobHunt_04-06-24
+Learn how to build a professional, responsive job posting landing page using HTML, CSS, and JavaScript in this step-by-step tutorial.
